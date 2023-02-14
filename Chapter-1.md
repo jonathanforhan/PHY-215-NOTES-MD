@@ -1,9 +1,5 @@
 # Chapter 1 - Units and Measurement
 
-<style>
-table {margin-left: 0 !important}
-</style>
-
 ## Equations
 
 > None for this chapter
