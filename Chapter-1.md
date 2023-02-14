@@ -104,7 +104,7 @@ statement of physical law.
 
 <br>
 
-> ## $v = \frac{1}{2}at$
+## $v = \frac{1}{2}at$
 
 - ## $\frac{L}{T} = \frac{L}{T^2}T$ &nbsp;&nbsp; ⇨ Correct
 
@@ -112,13 +112,13 @@ statement of physical law.
 
 <br>
 
-> ## $x = vt + 5$
+## $x = vt + 5$
 
 - ## $L = \frac{L}{T}T$ &nbsp;&nbsp; ⇨ Correct
 
 <br>
 
-> ## $y = \frac{ax}{v}$
+## $y = \frac{ax}{v}$
 
 - ## $L = \frac{\frac{L}{T^2}L}{\frac{L}{T}}$ &nbsp;&nbsp; ⇨ $L = \frac{L}{T}$ &nbsp;&nbsp; ⇨ Incorrect
 
@@ -132,7 +132,7 @@ statement of physical law.
 
 <br>
 
-> ### Surface Area of Earth = $4π(6370)^2$
+### Surface Area of Earth = $4π(6370)^2$
 
 - ### $A_{earth} = 4(3.14)(6370)^2$
 
@@ -140,7 +140,7 @@ statement of physical law.
 
 <br>
 
-> ### Surface Area of Other Planet = ($0.75 \times A_{earth}$)
+### Surface Area of Other Planet = ($0.75 \times A_{earth}$)
 
 - ### $A_{other} = 0.75(5.10\times 10^8)$
 
@@ -148,7 +148,7 @@ statement of physical law.
 
 <br>
 
-> ## Radius of Other Planet = $\sqrt{\frac{A_{other}}{4\pi}}$
+## Radius of Other Planet = $\sqrt{\frac{A_{other}}{4\pi}}$
 
 - ## $R_{other} = \sqrt{\frac{3.83\times10^8}{4\pi}}$
 
@@ -162,13 +162,13 @@ statement of physical law.
 
 <br>
 
-> ### 1 year = $365d\times24h\times60m\times60s$
+### 1 year = $365d\times24h\times60m\times60s$
 
 - ### 1 year = $3.15\times10^7seconds$
 
 <br>
 
-> ### 1 lightyear = *c* $\times$ seconds in one year
+### 1 lightyear = *c* $\times$ seconds in one year
 
 - ### 1 lightyear = $(1.86\times10^5mi/s)\times(3.15\times10^7s)$
 
@@ -176,11 +176,11 @@ statement of physical law.
 
 <br>
 
-> ### 1 au = 92.9 million miles
+### 1 au = 92.9 million miles
 
 <br>
 
-> ### 1 parsec = $2.06\times10^5 au$
+### 1 parsec = $2.06\times10^5 au$
 
 - ### 1 parsec = $(2.06\times10^5)\times(9.29\times10^7mi)$
 
@@ -188,7 +188,7 @@ statement of physical law.
 
 <br>
 
-> ## There are $1.9\times10^{13}mi$ in parsec and $(5.86\times10^{12})mi/lightyear$ so $\frac{mi}{(mi/lightyear)}$ will yeild lightyears
+## There are $1.9\times10^{13}mi$ in parsec and $(5.86\times10^{12})mi/lightyear$ so $\frac{mi}{(mi/lightyear)}$ will yeild lightyears
 
 - ## 1 parsec = $\frac{1.9\times10^{13}mi}{5.86\times10^{12}mi/lightyear}$ ⇨ 3.26 lightyears
 
@@ -202,7 +202,7 @@ statement of physical law.
 
 <br>
 
-> ### **a) How many ball bearings are in the cylinder?**
+### **a) How many ball bearings are in the cylinder?**
 
 - ### $V_{bearing} = \frac{4}{3}\pi(0.2cm)^3 = 0.0335cm^3$
 
@@ -210,11 +210,11 @@ statement of physical law.
 
 - ### $A_{cylinderbase} = {\pi}2^2 = 12.57cm^2$
 
-    > ### Number of Layers = cylinder height / bearing height
+    ### Number of Layers = cylinder height / bearing height
 
     - ## $layers = \frac{10cm}{0.4cm} = 25layers$
 
-    > ### Knowing that there are 25 layers height-wise we determine that 25 layers times the 12.57cm base is $314.15cm^2$ of actual horizonatal space$
+    ### Knowing that there are 25 layers height-wise we determine that 25 layers times the 12.57cm base is $314.15cm^2$ of actual horizonatal space$
 
     - ### Number of bearings = $A_{total} / (2{\times}r_{bearing})^2$
 
@@ -224,10 +224,10 @@ statement of physical law.
 
 <br>
 
-> ### **b) What is the volume of empty space in the cylinder?**
+### **b) What is the volume of empty space in the cylinder?**
 
 - ### Volume of 1963.4 bearings = $0.0335cm^3\times1963.4 = 65.77cm^3$
 
-    > ### the Volume of cylinder - Volume of bearings will yield empty space
+    ### the Volume of cylinder - Volume of bearings will yield empty space
 
     - ### Empty Space = $125.66cm^3 - 65.77cm^3 =$ **59.9cm**
