@@ -10,15 +10,14 @@
 
 - Kinematic Equations with **constant** acceleration
     - $x = x_0+\bar{v}t$
-    - $\bar{v} = \frac{v_0 + v}{2}$
     - $v = v_0 + at$
     - $x = x_0 + v_0t + \frac{1}{2}at^2$
     - $v^2 = v_0^2 + 2a(x-x_0)$
 
 - Kinematic Equations for object in **free fall**
-    - $v = v_0 + gt$
-    - $y = y_0 + v_0t + \frac{1}{2}gt^2$
-    - $v^2 = v_0^2 + 2g(y-y_0)$
+    - $v = v_0 - gt$
+    - $y = y_0 + v_0t - \frac{1}{2}gt^2$
+    - $v^2 = v_0^2 - 2g(y-y_0)$
 
 <br>
 
