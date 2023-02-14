@@ -59,6 +59,6 @@
 ## 3.5 Free Fall
 
 - Kinematic Equations for object in free fall
-    - $v = v_0 + gt$
-    - $y = y_0 + v_0t + \frac{1}{2}gt^2$
-    - $v^2 = v_0^2 + 2g(y-y_0)$
+    - $v = v_0 - gt$
+    - $y = y_0 + v_0t - \frac{1}{2}gt^2$
+    - $v^2 = v_0^2 - 2g(y-y_0)$
