@@ -106,7 +106,7 @@ statement of physical law.
 
 ## $v = \frac{1}{2}at$
 
-- ## $\frac{L}{T} = \frac{L}{T^2}T$ &nbsp;&nbsp; ⇨ Correct
+- ### $\frac{L}{T} = \frac{L}{T^2}T$ &nbsp;&nbsp; ⇨ Correct
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;we must remove the constants and consider only the variables
 
@@ -114,13 +114,13 @@ statement of physical law.
 
 ## $x = vt + 5$
 
-- ## $L = \frac{L}{T}T$ &nbsp;&nbsp; ⇨ Correct
+- ### $L = \frac{L}{T}T$ &nbsp;&nbsp; ⇨ Correct
 
 <br>
 
 ## $y = \frac{ax}{v}$
 
-- ## $L = \frac{\frac{L}{T^2}L}{\frac{L}{T}}$ &nbsp;&nbsp; ⇨ $L = \frac{L}{T}$ &nbsp;&nbsp; ⇨ Incorrect
+- ### $L = \frac{\frac{L}{T^2}L}{\frac{L}{T}}$ &nbsp;&nbsp; ⇨ $L = \frac{L}{T}$ &nbsp;&nbsp; ⇨ Incorrect
 
 <br>
 
@@ -150,7 +150,7 @@ statement of physical law.
 
 ## Radius of Other Planet = $\sqrt{\frac{A_{other}}{4\pi}}$
 
-- ## $R_{other} = \sqrt{\frac{3.83\times10^8}{4\pi}}$
+- ### $R_{other} = \sqrt{\frac{3.83\times10^8}{4\pi}}$
 
 - ### $R_{other} = \sqrt{3.05\times10^7}$
 
@@ -174,11 +174,7 @@ statement of physical law.
 
 - ### 1 lightyear = $5.86\times10^{12}mi$
 
-<br>
-
 ### 1 au = 92.9 million miles
-
-<br>
 
 ### 1 parsec = $2.06\times10^5 au$
 
@@ -190,7 +186,7 @@ statement of physical law.
 
 ## There are $1.9\times10^{13}mi$ in parsec and $(5.86\times10^{12})mi/lightyear$ so $\frac{mi}{(mi/lightyear)}$ will yeild lightyears
 
-- ## 1 parsec = $\frac{1.9\times10^{13}mi}{5.86\times10^{12}mi/lightyear}$ ⇨ 3.26 lightyears
+- ### 1 parsec = $\frac{1.9\times10^{13}mi}{5.86\times10^{12}mi/lightyear}$ ⇨ 3.26 lightyears
 
 <br>
 
@@ -212,7 +208,7 @@ statement of physical law.
 
     ### Number of Layers = cylinder height / bearing height
 
-    - ## $layers = \frac{10cm}{0.4cm} = 25layers$
+    - ### $layers = \frac{10cm}{0.4cm} = 25layers$
 
     ### Knowing that there are 25 layers height-wise we determine that 25 layers times the 12.57cm base is $314.15cm^2$ of actual horizonatal space$
 
