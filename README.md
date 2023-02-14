@@ -2,4 +2,4 @@
 
 Create an issue if you find any typos.
 
-If you view outside of GitHub ensure the previewer has inline HTML support
+If you view outside of GitHub ensure the previewer has inline HTML and LaTeX support
