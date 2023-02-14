@@ -148,7 +148,7 @@ statement of physical law.
 
 <br>
 
-## Radius of Other Planet = $\sqrt{\frac{A_{other}}{4\pi}}$
+### Radius of Other Planet = $\sqrt{\frac{A_{other}}{4\pi}}$
 
 - ### $R_{other} = \sqrt{\frac{3.83\times10^8}{4\pi}}$
 
